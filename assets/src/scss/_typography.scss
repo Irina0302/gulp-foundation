@@ -1,0 +1,12 @@
+// Google Fonts;
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,400i,800');
+
+// Font-family variables
+$primary-font-family: 'Montserrat', sans-serif;
+$body-font-family: 'Open Sans', sans-serif;
+
+//iocons
+//@import "../../components/Ionicons/scss/ionicons-variables";
+//@import "../../components/Ionicons/scss/ionicons-font";
+$ionicons-font-path:"../../components/Ionicons/fonts";
+@import "../../components/Ionicons/scss/ionicons";
